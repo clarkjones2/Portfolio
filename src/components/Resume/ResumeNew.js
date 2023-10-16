@@ -7,8 +7,11 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
+<<<<<<< HEAD
 const resumeLink = "/path-to-your-resume/Resume 04_27.docx copy.pdf"; // Update the path
 
+=======
+>>>>>>> 5e749e52305057e4a89786ce27be80c6a18698fe
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 
@@ -33,7 +36,7 @@ function ResumeNew() {
         </Row>
 
         <Row className="resume">
-          <Document file={resumeLink} className="d-flex justify-content-center">
+          <Document file={pdf} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row>
