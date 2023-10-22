@@ -8,7 +8,6 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-<<<<<<< HEAD
             Hi Everyone, my name is  <span className="purple">Clark Jones </span>
             from <span className="purple"> Kirkland, Washington.</span>
             <div>
@@ -17,27 +16,22 @@ function AboutCard() {
       <p>In the fast-paced world of MIS, my goal is to combine my tech interest with what I'm learning about how businesses work. I want to be part of the tech revolution and contribute to making things even better. Every day, I'm looking forward to the challenges and opportunities that come with pursuing my MIS degree at UW Bothell.
 </p>
     </div>
-=======
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br /> I am a final year student pursuing an Integrated MSc (IMSc)
-            in Maths and Computing at BIT Mesra.
+            <span className="purple"> </span>
+            <span className="purple"> </span>
+            <br /> 
+            
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
->>>>>>> 5e749e52305057e4a89786ce27be80c6a18698fe
-            <br />
-            Some things I am interested in include
+            
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Web Development
+              
             </li>
             <li className="about-activity">
-              <ImPointRight /> Mobile App Development
+              
             </li>
             <li className="about-activity">
-              <ImPointRight /> Machine Learning
+              
             </li>
           </ul>
 

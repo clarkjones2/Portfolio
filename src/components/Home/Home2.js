@@ -41,15 +41,10 @@ function Home2() {
               <br />
               <br />
               <i>
-<<<<<<< HEAD
-=======
                 <b className="purple"> C++, Javascript and Go. </b>
->>>>>>> 5e749e52305057e4a89786ce27be80c6a18698fe
               </i>
               &nbsp; 
               <i>
-<<<<<<< HEAD
-=======
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
@@ -69,7 +64,6 @@ function Home2() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js and Next.js</b>
->>>>>>> 5e749e52305057e4a89786ce27be80c6a18698fe
               </i>
             </p>
           </Col>
